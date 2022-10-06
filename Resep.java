@@ -10,6 +10,7 @@ public class Resep {
         System.out.println("2. Daging");
         System.out.println("3. Penutup Roti");
         System.out.println("4. Pembuka Pidato");
+        System.out.println("3. Penutup Roti");
     }
 
 }
